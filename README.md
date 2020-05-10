@@ -5,3 +5,8 @@ The game has two modes with two or four options to select. Every incorrect answe
 Every time the user gives the right answer it increases his earned points and raises the level of difficulty level as well.\
 The difficulty level is represented with the number of digits for each number the user has to compare.
 
+## Platform
+Android MinSDK 22(Android Lollipop v5.1)
+ 
+## Language
+Java
