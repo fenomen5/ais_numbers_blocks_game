@@ -10,3 +10,14 @@ Android MinSDK 22(Android Lollipop v5.1)
  
 ## Language
 Java
+
+##Screenshots
+
+### Start screen
+![](Graphics/Images/start_screen.png)
+
+### Two blocks game
+![](Graphics/Images/2blocks_screen.png)
+
+### Four blocks game
+![](Graphics/Images/4blocks_screen.png)
