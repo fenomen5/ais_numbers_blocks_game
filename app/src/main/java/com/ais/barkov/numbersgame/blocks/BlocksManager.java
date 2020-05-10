@@ -17,7 +17,7 @@ public class BlocksManager {
             Element generatedValue = this.generateIntValue(level);
             boolean valueExists = false;
             for (Element blockValue: blockValues) {
-                if (blockValue.getValue().equals(generatedValue.getValue())) {
+                if (blockValue != null && blockValue.getValue().equals(generatedValue.getValue())) {
                     valueExists = true;
                 }
             }
