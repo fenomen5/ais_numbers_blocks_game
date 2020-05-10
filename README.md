@@ -1,2 +1,5 @@
 # ais_numbers_blocks_game
-A simple android game with selecting the biggest or the smallest number
+A simple Android game where a user has to select the biggest or the smallest number according to the question.
+The game has two modes with two or four options to select. Every incorrect answer decreases the number of attempts that are available.
+Every time the user gives the right answer it increases his earned points and raises the level of difficulty level as well. The difficulty level is represented with the number of digits for each number the user has to compare.
+
